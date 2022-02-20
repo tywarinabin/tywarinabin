@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tywarinabin
 - 👀 I’m interested in coding as well as talking with strangers to make a new friends❤😎
 - 🌱 I’m currently learning c++ programming.
-- 💞️ I’m looking to collaborate on learning c++ languages.
+- 💞️ I’m looking to collaborate on some reputed IT Company.
 - 📫 How to reach me..> Instagram -    <<  @tywarinabin >> ...<< Go and Follow on Insta >>
 
 <!---
