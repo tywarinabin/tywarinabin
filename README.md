@@ -1,6 +1,6 @@
-🔭 I’m currently a student at LNCT UNIVERSITY.
+🔭 I’m currently a student of B.Tech CSE 3rd Semester at LNCT UNIVERSITY .
 - 🌱 I’m currently learning C++ and Data Structure Programs.
-- 👯 I’m looking to collaborate on a company where I can do some internship.
+- 👯 I’m looking to collaborate on a company where I can do some Internship.
 - 🤔 I’m looking for help who guide me a perfect pathway.
 - 💬 
 - 📫 How to reach me  ...? Follow me on INSTA ---> @tywarinabin
