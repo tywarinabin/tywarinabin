@@ -1,11 +1,4 @@
-### Hi there 👋
-
-<!--
-**tywarinabin/tywarinabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently a student at LNCT UNIVERSITY.
+🔭 I’m currently a student at LNCT UNIVERSITY.
 - 🌱 I’m currently learning C++ and Data Structure Programs.
 - 👯 I’m looking to collaborate on a company where I can do some internship.
 - 🤔 I’m looking for help who guide me a perfect pathway.
