@@ -1,11 +1,29 @@
-🔭 I’m currently a student of B.Tech CSE 3rd Semester at LNCT UNIVERSITY .
-- 🌱 I’m currently learning C++ and Data Structure Programs.
-- 👯 I’m looking to collaborate on a company where I can do some Internship.
-- 🤔 I’m looking for help who guide me a perfect pathway.
-- 💬 Messege me on Instagram @tywarinabin .
-- 📫 How to reach me  ...? Follow me on INSTA ---> @tywarinabin and nabintywari111@gmail.com
-- 😄 Can't we become friends hmm?
-- ⚡ Fun fact: I always look girls because girls become pretty and think that someone will watch on them and I fullfill their need. That's it. Is anything I have done wrong in it ?
--->
- 
------>    प्रभुको इक्षा !!!
+# Hi there, I'm [Your Name]! 👋
+
+## About Me
+
+I'm a [your profession] with a passion for [your interests]. I love working on projects that involve [technologies or fields you are interested in], and I'm always eager to learn and grow.
+
+## Skills
+
+- **Programming Languages**: Python, JavaScript, Java, [add more]
+- **Web Development**: HTML, CSS, React, Angular
+- **DevOps**: Docker, Kubernetes, Jenkins
+- **Data Science**: TensorFlow, PyTorch, scikit-learn
+- **Databases**: MySQL, PostgreSQL, MongoDB
+
+## Projects
+
+Here are a few projects I've worked on:
+
+1. **[Project Name](link-to-project)**: A brief description of what this project does.
+2. **[Project Name](link-to-project)**: A brief description of what this project does.
+3. **[Project Name](link-to-project)**: A brief description of what this project does.
+
+## Get in Touch
+
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+
+Thanks for visiting my profile!
