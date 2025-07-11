@@ -1,22 +1,31 @@
-🎓 Just Graduated
-I recently completed my B.Tech in Computer Science and Engineering from LNCT University (2021–2025).
+👨‍🎓 About Me
+🎓 Education
+• Graduated with a B.Tech in Computer Science & Engineering
+• LNCT University, Bhopal | Batch: 2021–2025
 
-💼 Internship at EPAM Systems
-I successfully completed a technical internship at EPAM Systems, focusing on .NET technology, gaining hands-on experience in real-world software development.
+💼 Internship Experience
+• Completed a technical internship at EPAM Systems
+• Worked on .NET technologies, building real-world enterprise solutions
+• Gained exposure to professional development practices and Agile teams
 
-🚀 Full-Time Role
-Excited to be joining EPAM Systems as a Full-Time Software Engineer in August 2025.
+🚀 Upcoming Full-Time Role
+• Thrilled to be joining EPAM Systems as a Full-Time Software Engineer in August 2025
+• Focused on backend & full-stack development using modern Microsoft technologies
 
-🛠️ Skills & Learning
-Currently deepening my knowledge in Java, Data Structures & Algorithms, and System Design, while building projects using .NET, C#, Angular, and SQL Server.
+🛠️ Skills & Current Focus
+• Languages & Tech: Java, C#, .NET Core, SQL Server, Angular
+• Learning: Data Structures & Algorithms, System Design
+• Building: Real-world full-stack projects with clean architecture and best practices
 
-🤝 Looking to Connect
-I’m open to mentorship, learning opportunities, and collaborating on impactful tech projects.
+🤝 Open To
+• Mentorship & career guidance
+• Collaborations on meaningful tech projects
+• Knowledge sharing and networking with fellow developers
 
-📫 Let’s Connect
-
+📬 Let’s Connect
 📧 Email: nabintywari111@gmail.com
-
 📸 Instagram: @tywarinabin
 
-🌱 Motto: “प्रभुको इच्छा” — Trusting in the path laid by the divine.
+🌱 Personal Motto
+
+“प्रभुको इच्छा” — Trusting the journey shaped by divine will, with humility and faith.
