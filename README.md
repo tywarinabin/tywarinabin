@@ -1,11 +1,22 @@
-🔭 I’m currently a student of B.Tech CSE 7th Semester at LNCT UNIVERSITY .
-- 🌱 I’m currently learning Java and Data Structure Programs.
-- 👯 I’m looking to collaborate on a company where I can do some Internship.
-- 🤔 I’m looking for help who guide me a perfect pathway.
-- 💬 Messege me on Instagram @tywarinabin .
-- 📫 How to reach me  ...? Follow me on INSTA ---> @tywarinabin and nabintywari111@gmail.com
-- 😄 Can't we become friends hmm?
-- ⚡ Fun fact: I always look girls because girls become pretty and think that someone will watch on them and I fullfill their need. That's it. Is anything I have done wrong in it ?
--->
- 
------>    प्रभुको इक्षा !!!
+🎓 Just Graduated
+I recently completed my B.Tech in Computer Science and Engineering from LNCT University (2021–2025).
+
+💼 Internship at EPAM Systems
+I successfully completed a technical internship at EPAM Systems, focusing on .NET technology, gaining hands-on experience in real-world software development.
+
+🚀 Full-Time Role
+Excited to be joining EPAM Systems as a Full-Time Software Engineer in August 2025.
+
+🛠️ Skills & Learning
+Currently deepening my knowledge in Java, Data Structures & Algorithms, and System Design, while building projects using .NET, C#, Angular, and SQL Server.
+
+🤝 Looking to Connect
+I’m open to mentorship, learning opportunities, and collaborating on impactful tech projects.
+
+📫 Let’s Connect
+
+📧 Email: nabintywari111@gmail.com
+
+📸 Instagram: @tywarinabin
+
+🌱 Motto: “प्रभुको इच्छा” — Trusting in the path laid by the divine.
