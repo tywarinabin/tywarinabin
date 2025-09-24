@@ -2,8 +2,7 @@
 
 🎓 **B.Tech CSE Graduate | LNCT University (2021–2025)**  
 💻 **.NET Intern @ EPAM Systems 2025**  
-🌱 Full-Stack Developer | Cloud Learner | System Design Enthusiast  
-🇳🇵 From Nepal | 📍 Currently in Bhopal, India  
+🌱 Full-Stack Developer | Cloud Learner | System Design Enthusiast 
 
 ---
 
