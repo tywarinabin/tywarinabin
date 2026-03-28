@@ -1,68 +1,90 @@
-# 👋 Hey there! I'm Nabin Tiwari
+# 👋 Hi, I'm Nabin Tiwari
 
-🎓 **B.Tech CSE Graduate | LNCT University (2021–2025)**  
-💻 **.NET Intern @ EPAM Systems 2025**  
-🌱 Full-Stack Developer | Cloud Learner | System Design Enthusiast 
-
----
-
-## 🚀 Career Journey So Far
-
-- ✅ **Graduated** in **Computer Science & Engineering** from LNCT University  
-- 💼 Completed a technical internship at **EPAM Systems** 
-- 🚀 Built and contributed to real-world projects using **enterprise-grade tech stacks** and **Agile methodologies**
+🎓 B.Tech CSE Graduate | LNCT University (2021–2025)  
+💼 Software Developer @ EPAM Systems  
+💻 Full-Stack Developer | Cloud Enthusiast | System Design Learner  
 
 ---
 
-## 🛠️ Tech Stack – Full Stack & Cloud
+## 🚀 Professional Summary
 
-### 🧩 **Frontend**
-- `HTML5`, `CSS3`, `JavaScript`, `TypeScript`  
-- `Angular`, `Bootstrap`, `Responsive Design`
+Passionate **Full-Stack Developer** with hands-on experience in building scalable web applications using **Java, .NET, Angular, and Azure**. Currently working at **EPAM Systems**, contributing to real-world enterprise applications with a strong focus on **clean architecture, performance, and maintainability**.
 
-### 🖥️ **Backend**
-- `Java`, `C#`, `.NET Core`, `ASP.NET Web API`  
-- `Entity Framework`, `LINQ`, `Dependency Injection`
-
-### 🗄️ **Database & Querying**
-- `SQL Server`, `Stored Procedures`
-
-### ☁️ **Cloud & DevOps**
-- `Microsoft Azure` (basics & learning), `CI/CD pipelines`  
-- `Git`, `GitHub`, `GitHub Actions`, `DevOps practices`
+I enjoy solving complex problems, designing backend systems, and continuously improving my skills in **system design and cloud technologies**.
 
 ---
 
-## 📚 Focus Areas & Learning Path
+## 🛠️ Tech Stack
 
-- 🔍 **Data Structures & Algorithms (Java)**  
-- 🧠 **System Design & Software Architecture**  
-- 📦 **Clean Architecture & Layered Design Patterns**  
-- 🧪 **Unit Testing**, **Code Quality**, **Best Practices**  
+### 💻 Frontend
+- HTML5, CSS3, JavaScript, TypeScript  
+- Angular, Bootstrap  
+- Responsive UI Design  
 
----
+### ⚙️ Backend
+- Java, C#, .NET Core, ASP.NET Web API  
+- REST API Development  
+- Entity Framework, LINQ  
+- Dependency Injection  
 
-## 🤝 Let’s Collaborate!
+### 🗄️ Database
+- SQL Server  
+- Stored Procedures, Query Optimization  
 
-I’m always open to:
-- 👨‍🏫 Mentorship & knowledge sharing  
-- 🔧 Real-world project collaborations  
-- 🤝 Networking with fellow developers & tech leaders  
-
-💡 *I’m highly motivated and always happy to help others in their tech journey!*
-
----
-
-## 📫 Reach Out To Me
-
-- 📧 **Email:** [nabintywari111@gmail.com](mailto:nabintywari111@gmail.com)  
-- 📸 **Instagram:** [@tywarinabin](https://instagram.com/tywarinabin)  
-- 💼 **LinkedIn:** [@nabintywari](https://www.linkedin.com/in/nabin-tiwari-4a8123229)
+### ☁️ Cloud & DevOps
+- Microsoft Azure (learning & hands-on)  
+- CI/CD Pipelines  
+- Git, GitHub, GitHub Actions  
 
 ---
 
-### 🌱 Personal Motto  
-> **"प्रभुको इच्छा"** — Trusting the path guided by the divine.  
-> Stay grounded. Stay growing. 🌿
+## 💼 Experience
+
+### 🏢 Software Developer — EPAM Systems  
+📍 Hyderabad, India | 🗓️ 2025 – Present  
+
+- Developed and maintained scalable backend services using **.NET Core & Web APIs**  
+- Worked on enterprise-level applications following **clean architecture principles**  
+- Collaborated in Agile teams, participating in **code reviews and sprint planning**  
+- Improved application performance and ensured high-quality code standards  
 
 ---
+
+## 📚 Current Focus
+
+- 📌 Data Structures & Algorithms (Java)  
+- 📌 System Design & Microservices Architecture  
+- 📌 Azure Cloud & Distributed Systems  
+- 📌 Writing clean, testable, and maintainable code  
+
+---
+
+## 🧠 Key Strengths
+
+- Strong understanding of **Backend Development & API Design**  
+- Good grasp of **Object-Oriented Programming & Design Patterns**  
+- Experience with **real-world project development**  
+- Continuous learner with a problem-solving mindset  
+
+---
+
+## 🤝 Open To
+
+- Collaboration on real-world projects  
+- Backend / Full-Stack opportunities  
+- Learning & networking with developers  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: nabintywari111@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/nabin-tiwari-4a8123229  
+- 📸 Instagram: https://instagram.com/tywarinabin  
+
+---
+
+## 🌱 Motto
+
+> **"प्रभुको इच्छा"**  
+> Trust the process. Keep growing. 🚀
