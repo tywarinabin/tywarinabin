@@ -14,9 +14,9 @@
 
 ## 🚀 Professional Summary
 
-Passionate **Full-Stack Developer** with hands-on experience in building scalable web applications using **Java, .NET, Angular, and Azure**. Currently working at **EPAM Systems**, contributing to enterprise-level solutions and modern software architecture patterns.
+Passionate **Full-Stack Developer** with hands-on experience in building scalable web applications using **Java, .NET, Angular, and Azure**. Currently working at **EPAM Systems**, contributing to enterprise-level solutions and continuous integration/deployment pipelines.
 
-I enjoy solving complex problems, designing robust backend systems, and continuously improving my skills in **system design, cloud technologies, and microservices architecture**. With a strong foundation in **data structures, algorithms, and OOPS concepts**, I'm committed to writing clean, maintainable, and high-performance code.
+I enjoy solving complex problems, designing robust backend systems, and continuously improving my skills in **system design, cloud technologies, and microservices architecture**. With a strong foundation in data structures and algorithms, I'm committed to writing clean, maintainable code while staying updated with industry trends.
 
 ---
 
@@ -141,9 +141,34 @@ I enjoy solving complex problems, designing robust backend systems, and continuo
 
 <div align="center">
 
-![GitHub Contributions](https://img.shields.io/badge/Active%20Developer-%23000000.svg?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/tywarinabin?style=for-the-badge&label=Total%20Stars)
-![GitHub Followers](https://img.shields.io/github/followers/tywarinabin?style=for-the-badge&label=Followers)
+### 🔥 Contribution Metrics
+
+| Metric | Badge |
+|:---:|:---|
+| **GitHub Stars** | ![GitHub Stars](https://img.shields.io/github/stars/tywarinabin?style=for-the-badge&label=Total%20Stars&color=FFD700) |
+| **GitHub Followers** | ![GitHub Followers](https://img.shields.io/github/followers/tywarinabin?style=for-the-badge&label=Followers&color=0079B5) |
+| **Public Repositories** | ![Public Repos](https://img.shields.io/badge/Public%20Repos-30%2B-brightgreen?style=for-the-badge) |
+| **Total Contributions** | ![Contributions](https://img.shields.io/badge/Total%20Contributions-1000%2B-blue?style=for-the-badge) |
+| **Max Streak** | ![Max Streak](https://img.shields.io/badge/Max%20Streak-45%20days-red?style=for-the-badge) |
+| **Current Streak** | ![Current Streak](https://img.shields.io/badge/Current%20Streak-12%20days-orange?style=for-the-badge) |
+
+### 📊 GitHub Activity Overview
+
+<a href="https://github.com/tywarinabin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tywarinabin&show_icons=true&include_all_commits=true&theme=radical&hide_border=false&bg_color=0d1117&text_color=c9cacc&title_color=58a6ff&icon_color=79c0ff" alt="GitHub Stats" />
+</a>
+
+<br />
+
+<a href="https://github.com/tywarinabin">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tywarinabin&theme=dark&background=0d1117" alt="GitHub Streak Stats" />
+</a>
+
+<br />
+
+<a href="https://github.com/tywarinabin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tywarinabin&layout=compact&theme=radical&hide_border=false&bg_color=0d1117&text_color=c9cacc&title_color=58a6ff" alt="Top Languages" />
+</a>
 
 </div>
 
@@ -167,6 +192,7 @@ I enjoy solving complex problems, designing robust backend systems, and continuo
 🚀 **Backend / Full-Stack opportunities**  
 📚 **Learning & networking** with developers  
 💡 **Contributing** to open-source projects  
+🌟 **Mentoring** junior developers  
 
 ---
 
@@ -196,4 +222,4 @@ I enjoy solving complex problems, designing robust backend systems, and continuo
 
 ---
 
-**Last Updated:** May 2026 | *Profile actively maintained and updated*
+**Last Updated:** June 2026 | *Profile actively maintained and updated*
