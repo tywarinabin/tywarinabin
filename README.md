@@ -1,225 +1,208 @@
-# 👋 Hi, I'm **Nabin Tiwari**
-
 <div align="center">
 
-### 🎓 B.Tech CSE Graduate | LNCT University (2021–2025)
-### 💼 Software Developer @ EPAM Systems
-### 💻 Full-Stack Developer | Cloud Enthusiast | System Design Learner
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nabin%20Tiwari&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20System%20Design%20Learner&descAlignY=58&descSize=18" width="100%"/>
 
-[📧 Email](mailto:nabintywari111@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/nabin-tiwari-4a8123229) • [📸 Instagram](https://instagram.com/tywarinabin) • [🐙 GitHub](https://github.com/tywarinabin)
+<a href="https://github.com/tywarinabin">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=B967FF&background=0D1117&center=true&vCenter=true&width=700&lines=Software+Developer+%40+EPAM+Systems;Building+Scalable+.NET+%26+Java+Systems;Cloud-Native+%7C+Microservices+%7C+System+Design;%24+sudo+access+--grant+innovation" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Email](https://img.shields.io/badge/-Email-FF2E92?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabintywari111@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabin-tiwari-4a8123229)
+[![Instagram](https://img.shields.io/badge/-Instagram-FF2E92?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tywarinabin)
+[![GitHub](https://img.shields.io/badge/-GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tywarinabin)
+
+<img src="https://komarev.com/ghpvc/?username=tywarinabin&style=for-the-badge&color=b967ff&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
 
----
+<br/>
 
-## 🚀 Professional Summary
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
 
-Passionate **Full-Stack Developer** with hands-on experience in building scalable web applications using **Java, .NET, Angular, and Azure**. Currently working at **EPAM Systems**, contributing to enterprise-level solutions and continuous integration/deployment pipelines.
+## 📡 `system.boot()` — About Me
 
-I enjoy solving complex problems, designing robust backend systems, and continuously improving my skills in **system design, cloud technologies, and microservices architecture**. With a strong foundation in data structures and algorithms, I'm committed to writing clean, maintainable code while staying updated with industry trends.
+```yaml
+developer:
+  name: "Nabin Tiwari"
+  role: "Software Developer @ EPAM Systems"
+  education: "B.Tech CSE, LNCT University (2021–2025)"
+  location: "Hyderabad, India"
+  stack: ["Java", ".NET", "Angular", "Azure", "Microservices"]
+  currently_learning: ["System Design", "DSA in Java", "Cloud-Native Apps"]
+  motto: "प्रभुको इच्छा — Trust the Process"
+  status: "🟢 Open to backend / full-stack opportunities"
+```
 
----
+> Passionate **Full-Stack Developer** building scalable web applications with **Java, .NET, Angular, and Azure** — currently shipping enterprise-grade solutions at **EPAM Systems**. I love designing robust backend systems, exploring **microservices & system design**, and writing clean, maintainable code.
 
-## 🛠️ **Tech Stack & Skills**
+<br/>
 
-### 🎯 **Frontend Technologies**
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%23000000.svg?style=for-the-badge)
-
-</div>
-
-### ⚙️ **Backend & Server-Side**
+## ⚡ `tech.stack` — Arsenal
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23FF6B6B.svg?style=for-the-badge)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23239120.svg?style=for-the-badge)
-![LINQ](https://img.shields.io/badge/LINQ-%23512BD4.svg?style=for-the-badge)
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap&theme=dark" /><br/><br/>
+
+### ⚙️ Backend & Server-Side
+<img src="https://skillicons.dev/icons?i=java,cs,dotnet&theme=dark" />
+<img src="https://img.shields.io/badge/REST_API-FF2E92?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity_Framework-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LINQ-B967FF?style=for-the-badge"/>
+<br/><br/>
+
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stored_Procedures-336791?style=for-the-badge"/>
+<br/><br/>
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=azure,git,github,githubactions&theme=dark"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2496ED?style=for-the-badge"/>
+<br/><br/>
+
+### 🔧 Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,c&theme=dark"/>
+<br/><br/>
+
+### 🏗️ Architecture & Patterns
+<img src="https://img.shields.io/badge/Clean_Architecture-0D1117?style=for-the-badge&logo=archlinux&logoColor=B967FF"/>
+<img src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design_Patterns-B967FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-FF2E92?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-8A2BE2?style=for-the-badge"/>
 
 </div>
 
-### 🗄️ **Database & ORM**
+<br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Stored Procedures](https://img.shields.io/badge/Stored%20Procedures-%23336791.svg?style=for-the-badge)
-![Query Optimization](https://img.shields.io/badge/Query%20Optimization-%23CC2927.svg?style=for-the-badge)
+## 💼 `experience.log` — Career Trace
 
-</div>
+```diff
++ [2025 - PRESENT]  Software Developer @ EPAM Systems, Hyderabad
++ ─────────────────────────────────────────────────────────────
++ ✓ Built scalable backend services using .NET Core & Web APIs
++ ✓ Shipped enterprise-level apps following clean architecture
++ ✓ Collaborated in Agile sprints — reviews, planning, retros
++ ✓ Improved app performance & enforced high code standards
++ ✓ Contributed to microservices architecture discussions
+```
 
-### ☁️ **Cloud & DevOps**
+<br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD%20Pipelines-%232496ED.svg?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-### 🔧 **Programming Languages**
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
-
-</div>
-
-### 📊 **Architecture & Patterns**
-
-<div align="center">
-
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23000000.svg?style=for-the-badge)
-![OOPS](https://img.shields.io/badge/OOPS-%23ED8B00.svg?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-%23512BD4.svg?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-%23FF6B6B.svg?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System%20Design-%231E90FF.svg?style=for-the-badge)
-
-</div>
-
----
-
-## 💼 **Professional Experience**
-
-### 🏢 **Software Developer — EPAM Systems**
-📍 *Hyderabad, India* | 🗓️ *2025 – Present*
-
-- ✅ Developed and maintained **scalable backend services** using **.NET Core & Web APIs**
-- ✅ Worked on **enterprise-level applications** following **clean architecture principles**
-- ✅ Collaborated in **Agile teams**, participating in code reviews and sprint planning
-- ✅ Improved **application performance** and ensured **high-quality code standards**
-- ✅ Contributed to **microservices architecture** and system design discussions
-
----
-
-## 📚 **Current Focus & Learning**
+## 🎯 `current_quest.json` — What I'm Leveling Up
 
 <div align="center">
 
 | 🎯 Focus Area | 📌 Details |
-|:---:|:---|
-| 📊 **Data Structures & Algorithms** | Advanced problem-solving using Java |
+|:---|:---|
+| 📊 **Data Structures & Algorithms** | Advanced problem-solving in Java |
 | 🏗️ **System Design & Microservices** | Building scalable distributed systems |
 | ☁️ **Azure Cloud & DevOps** | Cloud-native application development |
 | 🧪 **Clean Code & Testing** | Unit tests, integration tests, TDD |
-| 🔐 **API Security & Authentication** | OAuth, JWT, CORS, and best practices |
+| 🔐 **API Security** | OAuth, JWT, CORS & best practices |
 
 </div>
 
----
+<br/>
 
-## 🧠 **Key Strengths**
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
 
-| 💪 Strength | 📝 Description |
-|:---:|:---|
-| **Backend Architecture** | Strong understanding of API design and server-side development |
-| **Object-Oriented Programming** | Deep knowledge of OOP principles and design patterns |
-| **Problem Solving** | Excellent analytical skills with a continuous learning mindset |
-| **Full-Stack Development** | Proficient in end-to-end web application development |
-| **Code Quality** | Committed to writing clean, testable, and maintainable code |
-
----
-
-## 📈 **GitHub Statistics**
+## 📊 `stats.render()` — Live Dashboard
 
 <div align="center">
 
-### 🔥 Contribution Metrics
+<img src="https://github-readme-stats.vercel.app/api?username=tywarinabin&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B967FF&icon_color=FF2E92&text_color=c9cacc&ring_color=8A2BE2" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tywarinabin&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF2E92&currStreakLabel=B967FF" height="165"/>
 
-| Metric | Badge |
-|:---:|:---|
-| **GitHub Stars** | ![GitHub Stars](https://img.shields.io/github/stars/tywarinabin?style=for-the-badge&label=Total%20Stars&color=FFD700) |
-| **GitHub Followers** | ![GitHub Followers](https://img.shields.io/github/followers/tywarinabin?style=for-the-badge&label=Followers&color=0079B5) |
-| **Public Repositories** | ![Public Repos](https://img.shields.io/badge/Public%20Repos-30%2B-brightgreen?style=for-the-badge) |
-| **Total Contributions** | ![Contributions](https://img.shields.io/badge/Total%20Contributions-1000%2B-blue?style=for-the-badge) |
-| **Max Streak** | ![Max Streak](https://img.shields.io/badge/Max%20Streak-45%20days-red?style=for-the-badge) |
-| **Current Streak** | ![Current Streak](https://img.shields.io/badge/Current%20Streak-12%20days-orange?style=for-the-badge) |
+<br/>
 
-### 📊 GitHub Activity Overview
-
-<a href="https://github.com/tywarinabin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tywarinabin&show_icons=true&include_all_commits=true&theme=radical&hide_border=false&bg_color=0d1117&text_color=c9cacc&title_color=58a6ff&icon_color=79c0ff" alt="GitHub Stats" />
-</a>
-
-<br />
-
-<a href="https://github.com/tywarinabin">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tywarinabin&theme=dark&background=0d1117" alt="GitHub Streak Stats" />
-</a>
-
-<br />
-
-<a href="https://github.com/tywarinabin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tywarinabin&layout=compact&theme=radical&hide_border=false&bg_color=0d1117&text_color=c9cacc&title_color=58a6ff" alt="Top Languages" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tywarinabin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B967FF&text_color=c9cacc" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tywarinabin&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B967FF&line=FF2E92&point=ffffff" height="165"/>
 
 </div>
 
----
+<details>
+<summary><b>🐍 Contribution Snake (click to expand)</b></summary>
+<br/>
 
-## 🎓 **Featured Projects**
+> Add this via the [github-contribution-snake](https://github.com/Platane/snk) GitHub Action — see setup note at the bottom of this file.
 
-| 🚀 Project | 📝 Description | 💻 Tech Stack |
-|:---:|:---|:---|
-| **Claude Code** | Rust-based tooling for rapid development | Rust, System Design |
-| **SpringBoot E-commerce** | Full-stack e-commerce platform | Java, Spring Boot, MySQL |
-| **Portfolio Website** | Personal portfolio showcasing projects | HTML, CSS, JavaScript |
-| **Rest API Deployment** | Enterprise REST API with CI/CD | C#, .NET Core, Azure |
-| **Collection Framework** | Java collections implementation guide | Java, OOP |
+<img src="https://raw.githubusercontent.com/tywarinabin/tywarinabin/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
----
+</details>
 
-## 🤝 **Open To**
-
-✨ **Collaboration** on real-world projects  
-🚀 **Backend / Full-Stack opportunities**  
-📚 **Learning & networking** with developers  
-💡 **Contributing** to open-source projects  
-🌟 **Mentoring** junior developers  
-
----
-
-## 📫 **Get In Touch**
+<br/>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabintywari111@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabin-tiwari-4a8123229)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tywarinabin)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tywarinabin)
+![GitHub Stars](https://img.shields.io/github/stars/tywarinabin?style=for-the-badge&label=TOTAL%20STARS&color=B967FF&labelColor=0D1117)
+![GitHub Followers](https://img.shields.io/github/followers/tywarinabin?style=for-the-badge&label=FOLLOWERS&color=FF2E92&labelColor=0D1117)
+![Public Repos](https://img.shields.io/badge/PUBLIC%20REPOS-30%2B-8A2BE2?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
+
+## 🚀 `projects.list()` — Featured Builds
 
 <div align="center">
 
-### 🌱 **Motto**
-
-> **"प्रभुको इच्छा"** (Trust the Process)  
-> *Continuous Learning • Problem Solving • Growing Together* 🚀
-
-<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge" alt="Made with Love">
+| 🚀 Project | 📝 Description | 💻 Stack |
+|:---|:---|:---|
+| **Claude Code Tooling** | Rust-based tooling for rapid development | `Rust` `System Design` |
+| **SpringBoot E-commerce** | Full-stack e-commerce platform | `Java` `Spring Boot` `MySQL` |
+| **Portfolio Website** | Personal portfolio showcasing projects | `HTML` `CSS` `JS` |
+| **REST API Deployment** | Enterprise REST API with CI/CD | `C#` `.NET Core` `Azure` |
+| **Collection Framework Guide** | Java collections implementation guide | `Java` `OOP` |
 
 </div>
 
----
+<br/>
 
-**Last Updated:** June 2026 | *Profile actively maintained and updated*
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
+
+## 🤝 `connect.request()` — Open To
+
+<div align="center">
+
+![Collab](https://img.shields.io/badge/✨_Collaboration-on_real--world_projects-0D1117?style=for-the-badge&color=8A2BE2)
+![Backend](https://img.shields.io/badge/🚀_Backend_/_Full--Stack-opportunities-0D1117?style=for-the-badge&color=B967FF)
+![Learning](https://img.shields.io/badge/📚_Learning_&_Networking-with_developers-0D1117?style=for-the-badge&color=FF2E92)
+![OSS](https://img.shields.io/badge/💡_Contributing-to_open--source-0D1117?style=for-the-badge&color=8A2BE2)
+![Mentor](https://img.shields.io/badge/🌟_Mentoring-junior_developers-0D1117?style=for-the-badge&color=B967FF)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
+
+<div align="center">
+
+### 🌱 Motto
+
+```
+> प्रभुको इच्छा
+> (Trust the Process)
+> Continuous Learning • Problem Solving • Growing Together 🚀
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+**Last Updated:** June 2026 &nbsp;|&nbsp; *Profile actively maintained*
+
+</div>
