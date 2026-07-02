@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nabin%20Tiwari&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20System%20Design%20Learner&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nabin%20Tiwari&fontSize=60&fontColor=fff&animation=fadeIn&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <a href="https://github.com/tywarinabin">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=B967FF&background=0D1117&center=true&vCenter=true&width=700&lines=Software+Developer+%40+EPAM+Systems;Building+Scalable+.NET+%26+Java+Systems;Cloud-Native+%7C+Microservices+%7C+System+Design;%24+sudo+access+--grant+innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=B967FF&background=0D1117&center=true&vCenter=true&width=700&lines=Software+Developer+%40+EPAM+Systems;Full-Stack+Engineer;Java+%7C+.NET+%7C+Angular+%7C+Azure" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,7 +35,7 @@ developer:
   status: "🟢 Open to backend / full-stack opportunities"
 ```
 
-> Passionate **Full-Stack Developer** building scalable web applications with **Java, .NET, Angular, and Azure** — currently shipping enterprise-grade solutions at **EPAM Systems**. I love designing robust backend systems, exploring **microservices & system design**, and writing clean, maintainable code.
+> Passionate **Full-Stack Developer** building scalable web applications with **Java, .NET, Angular, and Azure** — currently shipping enterprise-grade solutions at **EPAM Systems**. I love designing clean architectures, solving complex problems, and mentoring the next generation of developers. Let's build something impactful together! 🚀
 
 <br/>
 
@@ -121,8 +121,8 @@ developer:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tywarinabin&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B967FF&icon_color=FF2E92&text_color=c9cacc&ring_color=8A2BE2" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tywarinabin&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF2E92&currStreakLabel=B967FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tywarinabin&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B967FF&icon_color=FF2E92&text_color=c9cacc&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tywarinabin&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF2E92&currStreakNum=B967FF" height="165"/>
 
 <br/>
 
